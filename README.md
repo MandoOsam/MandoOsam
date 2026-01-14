@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=<coders/>;Mustafa+Osama;Full+Stack+Developer;React+%26+Laravel" />
+</p>
 
 <h1>Hi 👋, I'm Mustafa Osama</h1>
 <h3>Full Stack Web Developer | React & Laravel</h3>
